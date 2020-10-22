@@ -3,7 +3,8 @@
 its actually the first project i started, although it probably wont get anywhere. Written in python, its my first attempt at coding. While not well organised or even well coded, it gets the job done, as in it works. Will improve on this project, and maybe even completly revamp the messy code.
 
 please inform me if u have any suggestions or critisicm. All criticism is welcome. Repository: (https://github.com/cygnus-dev/python01)
-```
+
+```python
 async def run(ctx):
     random_index = randint(1, 100)
     luck = random_index
