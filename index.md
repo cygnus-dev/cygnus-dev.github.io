@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Python01
 
-You can use the [editor on GitHub](https://github.com/cygnus-dev/cygnus-dev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+its actually the first project i started, although it probably wont get anywhere. Written in python, its my first attempt at coding. While not well organised or even well coded, it gets the job done, as in it works. Will improve on this project, and maybe even completly revamp the messy code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Java01
 
-### Markdown
+my first attempt at Java. just a couple of files with random tests. Again, expect bad code here since i still have no idea how object oriented programming works(although am figuring out). I will eventually begin a couple of projects on Java, not sure what tho.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contacts
 
-```markdown
-Syntax highlighted code block
+If you want to contact me for whatever reason, here my discord - NotCygnusv#0905
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cygnus-dev/cygnus-dev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
